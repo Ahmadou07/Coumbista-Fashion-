@@ -1,0 +1,8 @@
+{
+  "name": "Coumbista Fashion",
+  "description": "Boutique en ligne haut de gamme de maroquinerie de luxe et souliers féminins d'exception.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
